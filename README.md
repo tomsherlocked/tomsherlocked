@@ -5,4 +5,4 @@
   - (currently!) Lead dev for RPT
 - 🌱 Learning SSR React
 - 💬 Ask me about... anything really!
-- 📫 More active on [Twitter](twitter.com/tomsherlocked) and sometimes [my blog](tomsherlock.info)
+- 📫 More active on [Twitter](https://twitter.com/tomsherlocked) and sometimes [my blog](https://tomsherlock.info)
