@@ -1,8 +1,7 @@
 ### Hey 👋
 
-- :office: Fullstack dev at [IBM]( https://github.com/IBM), soon to be [Andertons Music Co]( https://www.andertons.co.uk/)
+- :office: Fullstack dev at [Andertons Music Co]( https://www.andertons.co.uk/), previously [IBM]( https://github.com/IBM), [QMUL]( https://www.qmul.ac.uk/ )  
   - Mostly React/Vue/Node. Some K8s and Openshift :) 
-  - (currently!) Lead dev for RPT
-- 🌱 Learning SSR React
-- 💬 Ask me about... anything IBM!
+- 🌱 Learning... lots. Mostly GraphQL and some new CMS tech
+- 💬 Ask me about... guitars, probably
 - 📫 More active on [Twitter](https://twitter.com/tomsherlocked) and sometimes [my blog](https://tomsherlock.info)
