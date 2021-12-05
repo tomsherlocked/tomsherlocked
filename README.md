@@ -1,5 +1,5 @@
 ### Hey 👋
-> Note: I rarely commit with this public GitHub account, so please excuse the empty contribution graph!
+> Note: I rarely commit with this public GitHub account, so please excuse the empty contribution graph! Get in touch for some recent examples!
 
 - :office: Fullstack dev at [Andertons Music Co]( https://www.andertons.co.uk/), previously [IBM]( https://github.com/IBM), [QMUL]( https://www.qmul.ac.uk/ )  
   - Mostly React/Vue/Node. Some K8s, GCP and Openshift
