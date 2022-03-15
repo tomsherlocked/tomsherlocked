@@ -1,10 +1,10 @@
 ### Hey 👋
 > Note: I rarely commit with this public GitHub account, so please excuse the empty contribution graph! Get in touch for some recent examples!
 
-- :office: Fullstack dev at [Andertons Music Co]( https://www.andertons.co.uk/), previously [IBM]( https://github.com/IBM), [QMUL]( https://www.qmul.ac.uk/ )  
-  - Mostly React/Vue/Node. Some K8s, GCP and Openshift
-  - Currently building a headless commerce frontend
+- :office: Mostly frontend dev at Play Sports Network, previously [Andertons Music Co]( https://www.andertons.co.uk/), [IBM]( https://github.com/IBM), [QMUL]( https://www.qmul.ac.uk/ )  
+  - Mostly React w/ typescript - Some infrastructure/node/backend stuff too
+  - Currently... learning lots
   - Part-time IoT/Raspberry Pi tinkerer
 - 🌱 Learning... lots... currently looking at JAMStack build options
-- 💬 Ask me about... guitars, raspberry pis, etc
+- 💬 Ask me about... bikes, raspberry pis, etc
 - 📫 More active on [Twitter](https://twitter.com/tomsherlocked) and sometimes [my blog](https://tomsherlock.info)
