@@ -1,10 +1,9 @@
 ### Hey 👋
-> Note: I rarely commit with this public GitHub account, so please excuse the empty contribution graph! Get in touch for some recent examples!
+> Note: I rarely commit with this public GitHub account, so please excuse the empty contribution graph!
 
-- :office: Mostly frontend dev at Play Sports Network, previously [Andertons Music Co]( https://www.andertons.co.uk/), [IBM]( https://github.com/IBM), [QMUL]( https://www.qmul.ac.uk/ )  
+- :office: Frontend dev at Play Sports Network, previously [IBM]( https://github.com/IBM), [QMUL]( https://www.qmul.ac.uk/ ) & [Andertons Music Co]( https://www.andertons.co.uk/),  
   - Mostly React w/ typescript - Some infrastructure/node/backend stuff too
-  - Currently... learning lots
   - Part-time IoT/Raspberry Pi tinkerer
-- 🌱 Learning... lots... currently looking at JAMStack build options
+- 🌱 Learning... lots... currently looking at tensorflow & getting to grips with ML
 - 💬 Ask me about... bikes, raspberry pis, etc
 - 📫 More active on [Twitter](https://twitter.com/tomsherlocked) and sometimes [my blog](https://tomsherlock.info)
