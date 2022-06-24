@@ -1,4 +1,5 @@
-### Hey 👋
+### Hey, I'm Tom 👋
+
 > Note: I rarely commit with this public GitHub account, so please excuse the empty contribution graph.
 
 - :office: Frontend dev at Play Sports Network, previously [IBM]( https://github.com/IBM), [QMUL]( https://www.qmul.ac.uk/ ) & [Andertons Music Co]( https://www.andertons.co.uk/),  
